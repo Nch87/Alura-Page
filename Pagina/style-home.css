@@ -1,0 +1,49 @@
+#banner {
+    width: 100%;
+}
+
+.principal{
+    background: #CCCCCC;
+    padding: 20px;
+}
+
+/* Este es un comentario en CSS */
+.titulo-principal{  
+    text-align: center;
+    color: gray;
+}
+
+p{
+    text-align: center;
+    background: #CCCCCC;
+}
+
+#mision{
+    font-size: 20px
+}
+
+.titulo-center{
+    text-align: center;
+}
+
+
+.items {
+    font-style: italic;
+}
+
+.imgDiferencial{
+    width: 50%;
+}
+
+ul{
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+
+.diferenciales {
+    background: #ffffff;
+    padding: 30px;
+}
+
