@@ -41,6 +41,6 @@ El archivo `styles.css` contiene el código CSS que define el estilo visual de l
 
 ## Uso del Proyecto
 
-Para ver la página web en acción, simplemente abre el archivo `index.html` en un navegador web.
+Para ver la página web en acción, simplemente descarga la carpeta completa y abre el archivo `index.html` en un navegador web.
 
 ¡Y eso es todo! Este README proporciona una descripción general del proyecto y cómo utilizarlo.
